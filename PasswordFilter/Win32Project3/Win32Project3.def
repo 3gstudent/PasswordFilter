@@ -1,0 +1,4 @@
+EXPORTS
+InitializeChangeNotify
+PasswordChangeNotify
+PasswordFilter
